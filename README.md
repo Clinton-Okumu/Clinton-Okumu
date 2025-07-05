@@ -62,9 +62,10 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=clinton-okumu&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=clinton-okumu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=clinton-okumu" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=clinton-okumu&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
