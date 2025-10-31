@@ -5,9 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=clinton-okumu&label=Profile%20views&color=0e75b6&style=flat" alt="clinton-okumu" />
 </p>
 
-- 🔭 I’m currently working on [Tours system](https://github.com/Clinton-Okumu/tours_management_system)  
 - 🌱 I’m currently learning **Golang**  
-- 👨‍💻 All of my projects are available at [https://github.com/Clinton-Okumu](https://github.com/Clinton-Okumu)  
 - 📫 How to reach me: **okumuclint@gmail.com**
 
 ---
