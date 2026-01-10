@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=clinton-okumu&label=Profile%20views&color=0e75b6&style=flat" alt="clinton-okumu" />
 </p>
 
-- 🌱 I’m currently learning **Golang**  
+- 🌱 I’m currently learning **Typescript**  
 - 📫 How to reach me: **okumuclint@gmail.com**
 
 ---
